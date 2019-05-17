@@ -6,3 +6,7 @@ A Collection of Previous Speaker's Presentations (in order of appearance)
 Doug Finke - Quantum Computing Report - Chasing Quantum Supremacy
 
 Bibek Pokharel - University of Southern California - Demonstration of Fidelity Improvement Using Dynamical Decoupling with Superconducting Qubits
+
+# May 15th 2019
+
+Corey McClelland - Qubitekk - Presentation on Quantum Key Distribution
